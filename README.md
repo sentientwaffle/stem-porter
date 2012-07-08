@@ -1,5 +1,7 @@
 # stem-porter
 
+[![Build Status](https://secure.travis-ci.org/sentientwaffle/stem-porter.png?branch=master)](http://travis-ci.org/sentientwaffle/stem-porter)
+
 Reduce words to their stems.
 
 This package is a JavaScript implementation of the
